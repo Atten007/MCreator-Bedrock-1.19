@@ -1,7 +1,6 @@
-
 {
   "id": "generator-addon-1.19.x",
-  "minversion": 202200100000,
+  "minversion": 202200120510,
   "info": {
     "name": "Minecraft Bedrock 1.19 generator"
   }
